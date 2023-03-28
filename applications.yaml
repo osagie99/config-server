@@ -10,5 +10,3 @@ okta:
   oauth2:
     audience: api://default
     issuer: https://dev-23720267.okta.com/oauth2/default
-    client-secret: ${OKTA_SECRET}
-    client-id: ${OKTA_CLIENT_ID}
